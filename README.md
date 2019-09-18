@@ -1,0 +1,2 @@
+# GitTraining
+To learn GIT
